@@ -21,17 +21,17 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming
 
-- [ ]Spotify
-- [ ][ ] Good recommendation system
-- [ ][ ] Good Social Features
+- [ ] Spotify
+- [ ]- Good recommendation system
+- [ ]- Good Social Features
 
-- [ ]Neko Atsume
-- [ ][ ] Great graphics
-- [ ][ ] Fun IDLE game that isn't addicting
+- [ ] Neko Atsume
+- [ ] - Great graphics
+- [ ] - Fun IDLE game that isn't addicting
 
-- [ ]Find My
-- [ ][ ] Good connection to friend's by sharing location
-- [ ][ ] Simple UI with all important info in one place
+- [ ] Find My
+- [ ] - Good connection to friend's by sharing location
+- [ ] - Simple UI with all important info in one place
 
 ## Notes
 
