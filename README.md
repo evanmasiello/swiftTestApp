@@ -38,6 +38,9 @@ The following **required** functionality is completed:
 - [ ] - Good connection to friend's by sharing location
 - [ ] - Simple UI with all important info in one place
 
+New App Brainstorming:
+ An app that I'm interested in making is an app for studying with friends on UMD campus. I want to have features to add friends and be able to mark where you're studying on campus so that they can join you. I think that this app would be useful for friends to form study groups to stay motivated together, and maybe additional features like seeing who's in your class could make this better. I would like to impliment this app with not only the campus map likely through google maps, but also try to impliment maps of the buildings so that you can mark exactly where you want to meet up with your friends.
+
 ## Notes
 
 Describe any challenges encountered while building the app:
