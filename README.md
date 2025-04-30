@@ -19,7 +19,19 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
-## App Brainstorming (Step 4)
+## App Brainstorming
+
+- Spotify
+-  Good recommendation system
+-  Good Social Features
+
+- Neko Atsume
+-  Great graphics
+-  Fun IDLE game that isn't addicting
+
+- Find My
+-  Good connection to friend's by sharing location
+-  Simple UI with all important info in one place
 
 ## Notes
 
@@ -28,7 +40,7 @@ Describe any challenges encountered while building the app:
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Evan Masiello
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
