@@ -22,8 +22,8 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## App Brainstorming
 
 - [ ] Spotify
-- [ ]- Good recommendation system
-- [ ]- Good Social Features
+- [ ] - Good recommendation system
+- [ ] - Good Social Features
 
 - [ ] Neko Atsume
 - [ ] - Great graphics
