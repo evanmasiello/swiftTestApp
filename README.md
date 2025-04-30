@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 <div>
     <a href="https://www.loom.com/share/983f8a8986b848b3beb6f94ed4ea7483">
-      <p>Loom | Free Screen & Video Recording Software - 30 April 2025 - Watch Video</p>
+      <p>Color App Demo - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/983f8a8986b848b3beb6f94ed4ea7483">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/983f8a8986b848b3beb6f94ed4ea7483-5618bf15bb7592ae-full-play.gif">
